@@ -27,7 +27,7 @@ Things after a | are the reasons/descriptions for the change.
  
  ⌊ Collage Puzzle      (0.5s Rotate Duration >> 1s Rotate Duration)
  
-◆ **Shorter Monster Release Timer (30s >> 20s)          | This is to give survivors less time to get a head start on puzzles.**
+◆ **Shorter Monster Release Timer (30s >> 20s)          | This is to give survivors less time to get a head start on puzzles. NOTE: This does not seem to work currently, will probably try to fix later.**
 
 ◆ **Longer Match Timer                                  | This is to give the monster more time to find players if they're trying to stall the entire game by hiding, especially when the monster is huggy.**
 
