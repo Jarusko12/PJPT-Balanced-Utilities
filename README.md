@@ -82,7 +82,4 @@ Things after a | are the reasons/descriptions for the change.
 ◈ **Monster Rebalance                                   | Monsters have had some of their stats changed to balance them out and to also encourage use of monsters other than boxy.**
 
 ## How To Get The Mod:
-Work In Progress! For now, go to yarnaby the legend's yt channel and watch his video called
-"Download my project playtime mod" or something similar, when he gets to the part where you
-add his mod, you can instead follow it but with my mod files instead! Despite what he says,
-this will work on phase 2, and my mod does not support phase 3 yet, it may in the future.
+Tutorial is work In Progress! For now, go to yarnaby the legend's yt channel and watch his video called "Download my project playtime mod" or something similar, when he gets to the part where you add his mod, you can instead follow it but with my mod files instead! Despite what he says, this will work on phase 2, and my mod does not support phase 3 yet, it may in the future.
