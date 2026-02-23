@@ -1,5 +1,5 @@
 # Jarusko12's PJPT Mod
-A mod that I made for Project: Playtime.
+A mod that I made for Project: Playtime. Post suggestions/feedback/bug reports in Issues!
 
 ## Explanation:
 If there's a ◇ next to a feature, it means it can only work for everyone if they have the mod installed, the host having it is not enough.
