@@ -1,4 +1,4 @@
-# Jarusko12's PJPT Mod
+# Project: Playtime ~ Balanced Utilities
 A mod that I made for Project: Playtime. Post suggestions/feedback/bug reports in Issues!
 
 ## Explanation:
