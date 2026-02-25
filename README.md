@@ -17,9 +17,9 @@ Things after a | are the reasons/descriptions for the change.
 
 ◆ **Slightly Harder Puzzles                             | Puzzles have been made slightly harder due to players being able to speedrun them without the monster getting a chance at killing anyone, especially if the survivors are tryhards.**
 
- ⌊ Reflex Puzzle       (16 Ticks >> 26 Ticks)
+ ⌊ Reflex Puzzle       (16 Ticks >> 22 Ticks)
  
- ⌊ Memory Puzzle       (8 Buttons >> 10 Buttons, 2 Rounds >> 3 Rounds)
+ ⌊ Memory Puzzle       (8 Buttons >> 11 Buttons)
  
  ⌊ Maze Puzzle         (100 Ball Speed >> 60 Ball Speed)
  
@@ -46,6 +46,8 @@ Things after a | are the reasons/descriptions for the change.
 ◇ **No Early Access Overlay                             | Removes that annoying early access overlay that sits at the bottom right of your screen, less UI clutter!**
 
 ◈ **Sabotage Rebalance                                  | Most sabotages have been changed to balance them out compared to other sabotages, since No Escape has always been the only one that's used, and was very overpowered.**
+
+ ⌊ _Sabotage Changes List Not Done Yet!_
 
 ◇ **Unlock All Cosmetics                                | This mod will also give you all cosmetics so your character can look cool! This does not include emotes, you will have to use a cosmetic mod on phase 3, equip emotes there, then use them in phase 2.**
 
@@ -80,6 +82,12 @@ Things after a | are the reasons/descriptions for the change.
  ⌊ Toy Parts Remaining (0 Tickets >> 500K Tickets)
   
 ◈ **Monster Rebalance                                   | Monsters have had some of their stats changed to balance them out and to also encourage use of monsters other than boxy.**
+
+ ⌊ Boxy                (200 Hit Reach >> 170 Hit Reach, 12s Grab Cooldown >> 17s Grab Cooldown, 0.4s Barrage Cooldown >> 0.8s Barrage Cooldown)
+
+ ⌊ Huggy               (10 Additive FOV >> 3 Additive FOV, 15s Baby Huggy Cooldown >> 12s Baby Huggy Cooldown)
+
+ ⌊ Mommy               (60s Spotter Cooldown >> 40s Spotter Cooldown, 40 Damage >> 45 Damage, 4K Max Grapple Distance >> 6K Max Grapple Distance)
 
 ## How To Get The Mod:
 Tutorial is work In Progress! For now, go to yarnaby the legend's yt channel and watch his video called "Download my project playtime mod" or something similar, when he gets to the part where you add his mod, you can instead follow it but with my mod files instead! Despite what he says, this will work on phase 2, and my mod does not support phase 3 yet, it may in the future.
