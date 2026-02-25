@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pjptlogo.png" alt="Project Banner" width="100%">
+</p>
+
 # Project: Playtime ~ Balanced Utilities
 A mod that I made for Project: Playtime. Post suggestions/feedback/bug reports in Issues!
 
