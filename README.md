@@ -2,7 +2,6 @@
   <img src="pjptlogo.png" alt="Project Banner" width="100%">
 </p>
 
-# Project: Playtime ~ Balanced Utilities
 A mod that I made for Project: Playtime which aims to balance the game more to have more close calls and survivors being close to losing, or even actually losing, and other useful things that aren't directly related to balancing. Post suggestions/feedback/bug reports in Issues!
 
 ## Explanation:
