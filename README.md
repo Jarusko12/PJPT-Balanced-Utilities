@@ -29,8 +29,6 @@ Things after a | are the reasons/descriptions for the change.
  ⌊ Claw Puzzle         (1.1 Speed Increase >> 1.6 Speed Increase)
  
  ⌊ Collage Puzzle      (0.5s Rotate Duration >> 1s Rotate Duration)
- 
-◆ **Shorter Monster Release Timer (30s >> 20s)          | This is to give survivors less time to get a head start on puzzles. NOTE: This does not seem to work currently, will probably try to fix later.**
 
 ◆ **Longer Match Timer                                  | This is to give the monster more time to find players if they're trying to stall the entire game by hiding, especially when the monster is huggy.**
 
@@ -93,4 +91,18 @@ Things after a | are the reasons/descriptions for the change.
  ⌊ Mommy               (60s Spotter Cooldown >> 40s Spotter Cooldown, 40 Damage >> 45 Damage, 4K Max Grapple Distance >> 6K Max Grapple Distance)
 
 ## How To Get The Mod:
-Tutorial is work In Progress! For now, go to yarnaby the legend's yt channel and watch his video called "Download my project playtime mod" or something similar, when he gets to the part where you add his mod, you can instead follow it but with my mod files instead! Despite what he says, this will work on phase 2, and my mod does not support phase 3 yet, it may in the future.
+**>> Modding Setup <<**
+- Download the modding setup folder
+- Extract it, open the mod unlocker folder inside, open the application, wait for it to update
+- Go to your PJPT files, then Playtime_Multiplayer > Binaries > Win64, copy that file path
+- Go back to the mod unlocker, click Open, paste in the file path, and click Select Folder
+- In the mod unlocker, click the Patch button
+- Open "the three files" folder in the modding setup folder
+- Drag the files from "the three files" into your PJPT files (the directory that's set by default when you click Browse Local Files)
+- Click replace the files in destination
+- If you are modding phase 3, (do not use my mod on phase 3, it does not support it) then also delete the anticheat folder
+
+**>> Adding Mods <<**
+- Download one of the versions of my mod, extract it, open the file inside, and you'll see folders like "Gameplay" "Interface" etc.
+- Copy over all of those files into your content folder (Playtime_Multiplayer > Content)
+- Launch the game, if this is your first time modding it, it will crash the first time, but work the second time
