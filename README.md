@@ -2,7 +2,7 @@
   <img src="pjptlogo.png" alt="Project Banner" width="100%">
 </p>
 
-A mod that I made for Project: Playtime (Phase 2 Version 2.0.3) which aims to balance the game more to have more close calls and survivors being close to losing, or even actually losing, and other useful things that aren't directly related to balancing. Post suggestions/feedback/bug reports in Issues!
+A mod that I made for Project: Playtime (Phase 2 Version 2.0.3), which aims to balance the game more to have more close calls and survivors being close to losing, or even actually losing, and other useful things that aren't directly related to balancing. Post suggestions/feedback/bug reports in Issues!
 
 ## Explanation:
 If there's a ◇ next to a feature, it means it can only work for everyone if they have the mod installed, the host having it is not enough.
