@@ -2,7 +2,7 @@
   <img src="pjptlogo.png" alt="Project Banner" width="100%">
 </p>
 
-A mod that I made for Project: Playtime (Phase 2 Version 2.0.3), which aims to balance the game more to have more close calls and survivors being close to losing, or even actually losing, and other useful things that aren't directly related to balancing. Post suggestions/feedback/bug reports in Issues!
+A mod that I made for Project: Playtime (Phase 2 Version 2.0.3), which aims to balance the game more to have more close calls and be more tense and challenging as a survivor, and other useful things that aren't directly related to balancing. Post suggestions/feedback/bug reports in Issues!
 
 ## Explanation:
 If there's a ◇ next to a feature, it means it can only work for everyone if they have the mod installed, the host having it is not enough.
@@ -28,7 +28,7 @@ Things after a | are the reasons/descriptions for the change.
  
  ⌊ Claw Puzzle         (1.1 Speed Increase >> 1.6 Speed Increase)
  
- ⌊ Collage Puzzle      (0.5s Rotate Duration >> 1s Rotate Duration)
+ ⌊ Collage Puzzle      (0.5s Rotate Duration >> 1s Rotate Duration, Fixed Instant Complete Bug)
 
 ◆ **Longer Match Timer                                  | This is to give the monster more time to find players if they're trying to stall the entire game by hiding, especially when the monster is huggy.**
 
@@ -89,3 +89,22 @@ Things after a | are the reasons/descriptions for the change.
  ⌊ Huggy               (10 Additive FOV >> 3 Additive FOV, 15s Baby Huggy Cooldown >> 12s Baby Huggy Cooldown)
 
  ⌊ Mommy               (60s Spotter Cooldown >> 40s Spotter Cooldown, 40 Damage >> 45 Damage, 4K Max Grapple Distance >> 6K Max Grapple Distance)
+
+## How To Use:
+**Mod Setup Files Link:** [Click Me!](https://files.catbox.moe/xq81v0.zip) | If this ever stops working, please let me know by creating an issue!
+- Extract mod setup files
+- Open mod unlocker folder
+- Open application inisde and wait for it to update & stuff
+- Open your Project: Playtime game files
+- Navigate to Playtime_Multiplayer > Binaries > Win64
+- Copy that file path
+- Go to the mod unlocker and press the open button
+- Paste in the file path and press select folder
+- Click the patch button and confirm any popups
+- Open the "the three files" folder in the mod setup files
+- Open your Project: Playtime game files but without navigating anywhere
+- Drag over the three files from the folder into your game files and click replace files in destination
+- Extract my actual mod, open the folder inside, and you should see folders like: Gameplay, Interface, etc.
+- Open your Project: Playtime files and navigate to Playtime_Multiplayer > Content
+- Drag over the mod files (Gameplay, Interface, etc.) into that Content folder
+- If you are modding phase 3 (Don't use my mod on phase 3, it will not work) then also delete the EasyAnticheat folder
