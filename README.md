@@ -14,7 +14,13 @@ If there's a ◆ next to a feature, it means the host having the mod is enough f
 Things after a | are the reasons/descriptions for the change.
 
 ## Current Features:
-◇ **Higher Chat Limit (56 Characters >> 512 Characters) | This is to remove any moments where you have to use multiple messages to type something, the default character limit sucks.**
+◇ **Better Chat                                         | Makes the chat overall better, but its not perfect.**
+
+ ⌊ Higher Character Limit (56 Characters >> 512 Characters)
+
+ ⌊ Player Chat Color (Blue >> Violet)
+
+ ⌊ Chat Font Size (12 >> 10)
 
 ◈ **Removed Dash Handles                                | This is to balance the game out a bit, since dash handles are extremely overpowered and the monster will not be able to catch players in most cases.**
 
