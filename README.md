@@ -112,3 +112,12 @@ Things after a | are the reasons/descriptions for the change.
 - Open your Project: Playtime files and navigate to Playtime_Multiplayer > Content
 - Drag over the mod files (Gameplay, Interface, etc.) into that Content folder
 - If you are modding phase 3 (Don't use my mod on phase 3, it will not work) then also delete the EasyAnticheat folder
+
+## How To Update:
+- Get the new version you want to use
+- Extract the new version of the mod, and look for a folder containing files like: Gameplay, Interface, etc.
+- Open your Project: Playtime game files
+- Navigate to Playtime_Multiplayer > Content
+- There is two methods of doing this: Risky, But Keep Other Mods, and Safe, But Remove Other Mods
+  - **[SAFE, BUT REMOVE OTHER MODS]** In the Content folder, delete all of the old mod files (Do not delete IllusoryContent, Movies, Paks) and put all of these files (Gameplay, Interface, etc.) into the Content folder you opened earlier
+  - **[RISKY, BUT KEEP OTHER MODS]** In the Content folder, put all of these files (Gameplay, Interface, etc.) into the Content folder you opened earlier, and press replace files in destination
