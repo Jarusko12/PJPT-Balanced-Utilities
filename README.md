@@ -88,7 +88,7 @@ Things after a | are the reasons/descriptions for the change.
   
 ◈ **Monster Rebalance                                   | Monsters have had some of their stats changed to balance them out and to also encourage use of monsters other than boxy.**
 
- ⌊ Boxy                (200 Hit Reach >> 170 Hit Reach, 12s Grab Cooldown >> 17s Grab Cooldown, 0.4s Barrage Cooldown >> 0.8s Barrage Cooldown)
+ ⌊ Boxy                (200 Hit Reach >> 210 Hit Reach, 12s Grab Cooldown >> 15s Grab Cooldown, 0.4s Barrage Cooldown >> 0.8s Barrage Cooldown)
 
  ⌊ Huggy               (10 Additive FOV >> 3 Additive FOV, 15s Baby Huggy Cooldown >> 12s Baby Huggy Cooldown)
 
