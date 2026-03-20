@@ -18,15 +18,17 @@ Things after a | are the reasons/descriptions for the change.
 
  ⌊ Higher Character Limit (56 Characters >> 512 Characters)
 
- ⌊ Player Chat Color (Blue >> Violet)
+ ⌊ Player Chat Color   (Blue >> Violet)
 
- ⌊ Chat Font Size (12 >> 10)
+ ⌊ Chat Font Size      (12 >> 10)
 
 ◈ **Nerfed Dash Handles                                 | This is to balance the game out a bit, since dash handles are extremely overpowered normally and the monster will not be able to catch players in most cases.**
 
  ⌊ Dash Speed          (2500 >> 1000)
 
  ⌊ Dash Acceleration   (2500 >> 1000)
+
+ ⌊ Cooldown            (0.6s >> 4s)
 
 ◆ **Slightly Harder Puzzles                             | Puzzles have been made slightly harder due to players being able to speedrun them without the monster getting a chance at killing anyone, especially if the survivors are tryhards.**
 
@@ -50,7 +52,13 @@ Things after a | are the reasons/descriptions for the change.
   
 ◆ **Doors Stay Closed For Longer (3s >> 5s)             | This is to help players escape a bit easier since dash handles were previously the easiest way to escape the monster, but now they're nerfed.**
 
-◈ **Lockers Take More Hits To Open (4 Hits >> 5 Hits)   | This is to make monsters not want to open lockers which hopefully will make players at least try to use them, since they're very underused.**
+◈ **Locker Changes                                      | This is to make lockers a bit more useful, since mostly nobody uses them normally.**
+
+ ⌊ Amount of Breath     (1 >> 2)
+
+ ⌊ Breath Recharge Time (10s >> 5s)
+
+ ⌊ Max Locker Time      (60s >> 80s)
 
 ◇ **Re-Added Quick Play Button                          | Adds the quick play button from phase 1 back into phase 2, because why not? It works fine, and may be useful sometimes.**
 
@@ -96,11 +104,11 @@ Things after a | are the reasons/descriptions for the change.
  
  ⌊ Near Escape         (0 Tickets >> 100K Tickets)
  
- ⌊ Players Downed      (10 Tickets >> 25K Tickets)
+ ⌊ Players Downed      (10 Tickets >> 10K Tickets)
  
- ⌊ Players Deposited   (20 Tickets >> 30K Tickets)
+ ⌊ Players Deposited   (20 Tickets >> 20K Tickets)
  
- ⌊ KillDCs             (0 Tickets >> 50K Tickets)
+ ⌊ Kills               (0 Tickets >> 50K Tickets)
  
  ⌊ Toy Parts Remaining (0 Tickets >> 5K Tickets)
   
@@ -114,13 +122,9 @@ Things after a | are the reasons/descriptions for the change.
 
 ◈ **Player Rebalance                                    | Players have had their stats changed. Massive credit to my friend FunniLTS for finding the files for the player!**
 
- ⌊ Auto Revive Time (30s >> 40s)
+ ⌊ Auto Revive Time    (30s >> 40s)
 
- ⌊ Revive Time (6s >> 5s)
-
- ⌊ Amount of Breath (1 >> 2)
-
- ⌊ Breath Recharge Time (10s >> 5s)
+ ⌊ Revive Time         (6s >> 5s)
 
 ## How To Use:
 **Mod Setup Files Link:** [Click Me!](https://files.catbox.moe/xq81v0.zip) | If this ever stops working, please let me know by creating an issue!
