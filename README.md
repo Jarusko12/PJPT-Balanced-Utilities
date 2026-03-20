@@ -22,7 +22,11 @@ Things after a | are the reasons/descriptions for the change.
 
  ⌊ Chat Font Size (12 >> 10)
 
-◈ **Removed Dash Handles                                | This is to balance the game out a bit, since dash handles are extremely overpowered and the monster will not be able to catch players in most cases.**
+◈ **Nerfed Dash Handles                                 | This is to balance the game out a bit, since dash handles are extremely overpowered normally and the monster will not be able to catch players in most cases.**
+
+ ⌊ Dash Speed          (2500 >> 1000)
+
+ ⌊ Dash Acceleration   (2500 >> 1000)
 
 ◆ **Slightly Harder Puzzles                             | Puzzles have been made slightly harder due to players being able to speedrun them without the monster getting a chance at killing anyone, especially if the survivors are tryhards.**
 
@@ -38,13 +42,13 @@ Things after a | are the reasons/descriptions for the change.
 
 ◆ **Longer Match Timer                                  | This is to give the monster more time to find players if they're trying to stall the entire game by hiding, especially when the monster is huggy.**
 
- ⌊ Toy Collecting      (15 Minutes >> 30 Minutes)
+ ⌊ Toy Collecting      (15 Minutes >> 20 Minutes)
  
  ⌊ Pulling Down Pipe   (3 Minutes >> 10 Minutes)
  
  ⌊ Escape Sequence     (5 Minutes >> 8 Minutes)
   
-◆ **Doors Stay Closed For Longer (3s >> 5s)             | This is to help players escape a bit easier since dash handles were previously the easiest way to escape the monster.**
+◆ **Doors Stay Closed For Longer (3s >> 5s)             | This is to help players escape a bit easier since dash handles were previously the easiest way to escape the monster, but now they're nerfed.**
 
 ◈ **Lockers Take More Hits To Open (4 Hits >> 5 Hits)   | This is to make monsters not want to open lockers which hopefully will make players at least try to use them, since they're very underused.**
 
@@ -54,7 +58,21 @@ Things after a | are the reasons/descriptions for the change.
 
 ◈ **Sabotage Rebalance                                  | Most sabotages have been changed to balance them out compared to other sabotages, since No Escape has always been the only one that's used, and was very overpowered.**
 
- ⌊ _Sabotage Changes List Not Done Yet!_
+ ⌊ Total Lockdown      (30s/45s/60s >> 30s/40s/50s | Duration )
+
+ ⌊ Directionless       (30s/45s/60s >> 30s/50s/70s | Duration )
+
+ ⌊ No Pack             (5s/10s/15s >> 15s/20s/25s | Duration )
+
+ ⌊ Shutdown            (10s/15s/20s >> 15s/20s/25s | Repair Time )
+
+ ⌊ Feeding Frenzy      (20s/30s/50s >> 30s/40s/50s | Duration )
+
+ ⌊ No Escape           (15s/30s/45s >> 20s/25s/30s | Duration )
+
+ ⌊ Boobytrap           (2/3/4 >> 4/5/6 | Puzzle Pillars Affected )
+
+ ⌊ Living Nightmare    (20s/30s/40s >> 30s/40s/50s | Duration )
 
 ◇ **Unlock All Cosmetics                                | This mod will also give you all cosmetics so your character can look cool! This does not include emotes, you will have to use a cosmetic mod on phase 3, equip emotes there, then use them in phase 2.**
 
@@ -78,9 +96,9 @@ Things after a | are the reasons/descriptions for the change.
  
  ⌊ Near Escape         (0 Tickets >> 100K Tickets)
  
- ⌊ Players Downed      (20 Tickets >> 25K Tickets)
+ ⌊ Players Downed      (10 Tickets >> 25K Tickets)
  
- ⌊ Players Deposited   (30 Tickets >> 30K Tickets)
+ ⌊ Players Deposited   (20 Tickets >> 30K Tickets)
  
  ⌊ KillDCs             (0 Tickets >> 50K Tickets)
  
@@ -93,6 +111,16 @@ Things after a | are the reasons/descriptions for the change.
  ⌊ Huggy               (10 Additive FOV >> 3 Additive FOV, 15s Baby Huggy Cooldown >> 12s Baby Huggy Cooldown)
 
  ⌊ Mommy               (60s Spotter Cooldown >> 40s Spotter Cooldown, 40 Damage >> 45 Damage, 4K Max Grapple Distance >> 6K Max Grapple Distance)
+
+◈ **Player Rebalance                                    | Players have had their stats changed. Massive credit to my friend FunniLTS for finding the files for the player!**
+
+ ⌊ Auto Revive Time (30s >> 40s)
+
+ ⌊ Revive Time (6s >> 5s)
+
+ ⌊ Amount of Breath (1 >> 2)
+
+ ⌊ Breath Recharge Time (10s >> 5s)
 
 ## How To Use:
 **Mod Setup Files Link:** [Click Me!](https://files.catbox.moe/xq81v0.zip) | If this ever stops working, please let me know by creating an issue!
