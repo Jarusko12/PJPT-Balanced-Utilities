@@ -118,7 +118,7 @@ Things after a | are the reasons/descriptions for the change.
 
  ⌊ Huggy               (10 Additive FOV >> 3 Additive FOV, 15s Baby Huggy Cooldown >> 12s Baby Huggy Cooldown)
 
- ⌊ Mommy               (60s Spotter Cooldown >> 40s Spotter Cooldown, 40 Damage >> 45 Damage, 4K Max Grapple Distance >> 6K Max Grapple Distance)
+ ⌊ Mommy               (60s Spotter Cooldown >> 40s Spotter Cooldown, 40 Damage >> 48 Damage, 4K Max Grapple Distance >> 6K Max Grapple Distance)
 
 ◈ **Player Rebalance                                    | Players have had their stats changed. Massive credit to my friend FunniLTS for finding the files for the player!**
 
