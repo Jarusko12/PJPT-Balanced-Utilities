@@ -143,7 +143,7 @@ Things after a | are the reasons/descriptions for the change.
 - Extract my actual mod, open the folder inside, and you should see folders like: Gameplay, Interface, etc.
 - Open your Project: Playtime files and navigate to Playtime_Multiplayer > Content
 - Drag over the mod files (Gameplay, Interface, etc.) into that Content folder
-- If you are modding phase 3 (Don't use my mod on phase 3, it will not work) then also delete the EasyAnticheat folder
+- If you are modding phase 3 (Don't use this mod on phase 3, it will not work, instead use my [Phased Utilities](https://github.com/Jarusko12/PJPT-Phased-Utilities) mod for phase 3) then also delete the EasyAnticheat folder inside of the game files (without navigating anywhere)
 
 ## How To Update:
 - Get the new version you want to use
