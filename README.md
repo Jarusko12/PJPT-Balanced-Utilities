@@ -86,31 +86,31 @@ Things after a | are the reasons/descriptions for the change.
 
 ◆ **A Lot Of Tickets                                    | You will get a lot more tickets for a lot of actions that normally give a very little amount!**
  
- ⌊ Puzzles Completed   (20 Tickets >> 20K Tickets)
+ ⌊ Puzzles Completed   (20 Tickets >> 2K Tickets)
  
- ⌊ Players Revived     (10 Tickets >> 10K Tickets)
+ ⌊ Players Revived     (10 Tickets >> 1K Tickets)
  
- ⌊ Players Extracted   (30 Tickets >> 30K Tickets)
+ ⌊ Players Extracted   (30 Tickets >> 3K Tickets)
  
  ⌊ Toy Parts Deposited (5 Tickets >> 5K Tickets)
  
- ⌊ Time Survived       (0 Tickets >> 10K Tickets)
+ ⌊ Time Survived       (0 Tickets >> 1K Tickets)
  
- ⌊ Escaped On Train    (0 Tickets >> 50K Tickets)
+ ⌊ Escaped On Train    (0 Tickets >> 5K Tickets)
  
- ⌊ Skillful Extraction (0 Tickets >> 300K Tickets)
+ ⌊ Skillful Extraction (0 Tickets >> 30K Tickets)
  
- ⌊ Adept Extraction    (0 Tickets >> 200K Tickets)
+ ⌊ Adept Extraction    (0 Tickets >> 20K Tickets)
  
- ⌊ Near Escape         (0 Tickets >> 100K Tickets)
+ ⌊ Near Escape         (0 Tickets >> 10K Tickets)
  
- ⌊ Players Downed      (10 Tickets >> 10K Tickets)
+ ⌊ Players Downed      (10 Tickets >> 1K Tickets)
  
- ⌊ Players Deposited   (20 Tickets >> 20K Tickets)
+ ⌊ Players Deposited   (20 Tickets >> 2K Tickets)
  
- ⌊ Kills               (0 Tickets >> 50K Tickets)
+ ⌊ Kills               (0 Tickets >> 5K Tickets)
  
- ⌊ Toy Parts Remaining (0 Tickets >> 5K Tickets)
+ ⌊ Toy Parts Remaining (0 Tickets >> 1K Tickets)
   
 ◈ **Monster Rebalance                                   | Monsters have had some of their stats changed to balance them out and to also encourage use of monsters other than boxy.**
 
